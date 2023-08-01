@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FalilatA
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning test automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on test automation
+- 💞️ I’m looking to collaborate on any project
+- 📫 You can reach me via GitHub
 
 <!---
 FalilatA/FalilatA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
