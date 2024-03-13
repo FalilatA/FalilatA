@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FalilatA
-- 👀 I’m interested in software development
+- 👋 Hi, I’m my name is Falilat Abdulrahman
+- 👀 I’m interested in software quality assurance
 - 🌱 I’m currently working on test automation
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me via GitHub
